@@ -12,7 +12,7 @@ class Solution:
         while temp != 0:
             digit = temp % 10
             reversed_num = reversed_num * 10 + digit
-            temp //= 10
+            temp //= 10 # Same logic as temp = temp/10, but return as int by taking the int bfr decimal points
 
         return reversed_num == x
 
