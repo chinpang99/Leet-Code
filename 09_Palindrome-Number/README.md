@@ -1,5 +1,5 @@
 ## Question:
-Given an integer x, return true if x is a palindrome, and false otherwise.
+Given an integer x, return true if x is a palindrome, and false otherwise. Try to solve without converting the integer to a string.
 
 ## Example 1:
 Input: x = 121
