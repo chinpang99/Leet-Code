@@ -6,4 +6,5 @@ class Solution:
 if __name__ == "__main__":
     word1='Hello World'
     solution = Solution().lengthOfLastWord(word1)
+    print(solution)
 
